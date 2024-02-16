@@ -6,7 +6,7 @@ const Card3 = () => {
     <div className="max-w-lg rounded-md overflow-hidden shadow-lg bg-gradient-to-tr from-[#cec8e9] to-[#5d5581] border border-black/25 pt-8 mb-16">
       <Image
         className="w-full"
-        src="/bronze.jpg"
+        src="/diamond.jpg"
         width={80}
         height={80}
         alt="pip"
