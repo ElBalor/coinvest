@@ -9,7 +9,7 @@ const Modal = () => {
     >
       <div className="modal-box p-9 m-auto items-center justify-center">
         <form method="dialog">
-          <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+          <button className=" border border-black rounded-full hover:bg-slate-700 p-3 absolute right-2 top-2">
             ✕
           </button>
         </form>

@@ -15,6 +15,7 @@ export default function Home() {
               <div
                 className=" items-center justify-center "
                 onClick={() =>
+                  //@ts-ignore
                   document.getElementById("coins-vest").showModal()
                 }
               >
